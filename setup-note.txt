@@ -1,0 +1,7 @@
+I installed VS Code and the Microsoft C/C++ extension for C programming.
+I verified that GCC and G++ were installed and working correctly.
+During compilation, I got a "hello.c: No such file or directory" error.
+The problem was that my terminal was in the wrong folder.
+I changed the terminal directory to the folder containing hello.c.
+After that, the program compiled successfully without errors.
+I ran the executable and got the output "Hello, World!".
